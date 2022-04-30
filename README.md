@@ -9,6 +9,4 @@ both local and github data are saved.
 Update made to the master on GitHub before rebase.
 
 ## Repository purpose
-
-Lorem ipsum dolor sit amet, qui minim labore adipisicing 
-minim sint cillum sint consectetur cupidatat.
+This file is used for overviewing the project
