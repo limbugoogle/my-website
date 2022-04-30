@@ -10,3 +10,5 @@ Update made to the master on GitHub before rebase.
 
 ## Repository purpose
 This file is used for overviewing the project
+
+This file contains more tags
